@@ -4,8 +4,8 @@
   - Judge Pool: $750 in USDC
 - [Warden guidelines for C4 mitigation reviews](https://code4rena.notion.site/Guidelines-for-C4-mitigation-reviews-ed10fc5cfbf640bd8dcec66f38b343c4)
 - Submit findings [using the C4 form](https://code4rena.com/contests/2024-03-identity-staking-invitational-mitigation-review/submit)
-- Starts March 25, 2024 20:00 UTC
-- Ends March 28, 2024 20:00 UTC
+- Starts March 26, 2024 20:00 UTC
+- Ends March 29, 2024 20:00 UTC
 
 ## Important note 
 
