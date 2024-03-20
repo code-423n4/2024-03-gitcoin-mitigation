@@ -13,7 +13,7 @@ Each warden must submit a mitigation review for *every High and Medium finding* 
 
 Mitigations of all High and Medium issues will be considered in-scope and listed here.
 
-- [H-01: Title](link to Github issue)
+- [H-01: userTotalStaked invariant will be broken due to vulnerable implementations in release()](https://github.com/code-423n4/2024-03-gitcoin-findings/issues/9)
 
 [ ⭐️ SPONSORS ADD INFO HERE ]
 
