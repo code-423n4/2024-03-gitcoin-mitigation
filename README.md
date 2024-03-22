@@ -40,8 +40,6 @@ The link to the branch containing all changes: [https://github.com/gitcoinco/id-
 
 ### Individual PRs
 
-[ ⭐️ SPONSORS ADD ALL RELEVANT PRs TO THE TABLE BELOW:]
-
 Wherever possible, mitigations should be provided in separate pull requests, one per issue. If that is not possible (e.g. because several audit findings stem from the same core problem), then please link the PR to all relevant issues in your findings repo.
 
 | URL                                                | Mitigation of | Purpose                                                                                                                                                                       |
