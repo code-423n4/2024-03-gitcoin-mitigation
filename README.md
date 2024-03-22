@@ -34,7 +34,9 @@ The changes include:
 
 1. fix for the high prio issue found (H-01)
 2. fixes for some of the QA level issues
-3. new code: convenience functions that we have added to be able to manage multiple community stakes in 1 transaction (create, extend and withdraw multiple stakes)
+3. new code:
+    - small changes related to events
+    - convenience functions that we have added to be able to manage multiple community stakes in 1 transaction (create, extend and withdraw multiple stakes)
 
 ## Mitigations to be reviewed
 
